@@ -83,7 +83,7 @@ footer{
     width: 40%;
     height: auto;
     align-items: center;
-    justify-content: center; /* Centra horizontalmente */
+    margin: 0 auto; /* Centra horizontalmente */
 }
 
 .imagen_text {
